@@ -6,6 +6,7 @@ gem 'rails', '~> 5.0.0'
 gem 'mysql2'
 gem 'devise'
 gem 'devise_token_auth'
+gem 'omniauth'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
